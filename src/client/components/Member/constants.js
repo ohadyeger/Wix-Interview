@@ -1,0 +1,10 @@
+const MemberActionsConstants = {
+  LOAD_USER: "LOAD_USER",
+  LOAD_USER_SUCC: "LOAD_USER_SUCC",
+  LOAD_USER_FAIL: "LOAD_USER_FAIL",
+  CANCEL_BOOK: "CANCEL_BOOK",
+  CANCEL_BOOK_SUCC: "CANCEL_BOOK_SUCC",
+  CANCEL_BOOK_FAIL: "CANCEL_BOOK_FAIL",
+};
+
+export { MemberActionsConstants };

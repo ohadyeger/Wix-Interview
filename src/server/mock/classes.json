@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Martial Arts",
+    "description": "Matial art class",
+    "price": 80,
+    "max_participants": 1,
+    "instructor_name": "Adam",
+    "duration_minutes": 160,
+    "time_slots": []
+  },
+  {
+    "name": "Yoga",
+    "description": "Yoga class",
+    "price": 50,
+    "max_participants": 2,
+    "instructor_name": "Ohad",
+    "duration_minutes": 54,
+    "time_slots": []
+  },
+  {
+    "name": "Boxing",
+    "description": "Boxing class",
+    "price": 40,
+    "max_participants": 3,
+    "instructor_name": "Amir",
+    "duration_minutes": 45,
+    "time_slots": []
+  },
+  {
+    "name": "Dance",
+    "description": "Dance class",
+    "price": 20,
+    "max_participants": 6,
+    "instructor_name": "John",
+    "duration_minutes": 120,
+    "time_slots": []
+  },
+  {
+    "name": "Golden Age Athletics",
+    "description": "Old Age Sport class",
+    "price": 80,
+    "max_participants": 12,
+    "instructor_name": "Rick",
+    "duration_minutes": 60,
+    "time_slots": []
+  },
+  {
+    "name": "Swimming",
+    "description": "Swimming class",
+    "price": 90,
+    "max_participants": 40,
+    "instructor_name": "Morty",
+    "duration_minutes": 15,
+    "time_slots": []
+  },
+  {
+    "name": "Excersize Biking",
+    "description": "Biking class",
+    "price": 120,
+    "max_participants": 15,
+    "instructor_name": "Obama",
+    "duration_minutes": 120,
+    "time_slots": []
+  },
+  {
+    "name": "Judo",
+    "description": "Judo class",
+    "price": 3,
+    "max_participants": 20,
+    "instructor_name": "Sagi Muki",
+    "duration_minutes": 10,
+    "time_slots": []
+  },
+  {
+    "name": "Pilates",
+    "description": "Pilates class",
+    "price": 50,
+    "max_participants": 5,
+    "instructor_name": "Isabelle",
+    "duration_minutes": 90,
+    "time_slots": []
+  },
+  {
+    "name": "Crossfit",
+    "description": "Crossfit class",
+    "price": 1984,
+    "max_participants": 100,
+    "instructor_name": "Niko-Robin",
+    "duration_minutes": 180,
+    "time_slots": []
+  }
+]
